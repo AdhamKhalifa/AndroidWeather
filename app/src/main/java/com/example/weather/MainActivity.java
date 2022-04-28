@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     FusedLocationProviderClient fusedLocationProviderClient;
 
     private final String url = "https://api.openweathermap.org/data/2.5/weather";
-    private final String appid = "a76148ec4f92257d51de503df6695149";
+    private final String appid = {{app_id_goes_here}};
     DecimalFormat df = new DecimalFormat("#.##");
 
 
